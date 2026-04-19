@@ -7,7 +7,7 @@
 //   author <name> <unix-timestamp>
 //   committer <name> <unix-timestamp>
 //
-//   <commit message>
+//   Improve commit module comments
 
 #include "commit.h"
 #include "index.h"
